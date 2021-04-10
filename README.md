@@ -6,4 +6,4 @@
 This App is Developed with NodeJs and hoisted on repl.it.
 
 ---
-In Mood of fun,check out the link :)  
+If in Mood of fun,check out the link :)  
